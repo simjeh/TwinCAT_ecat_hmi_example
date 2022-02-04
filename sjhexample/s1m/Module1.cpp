@@ -226,7 +226,7 @@ HRESULT CModule1::CycleUpdate(ITcTask* ipTask, ITcUnknown* ipCaller, ULONG_PTR c
 		A_flag_[1] = false;
 		A_flag_[2] = false;
 		C_ui_[0] = P_elmo;
-		C_ui_[1] = 0.0;
+		C_ui_[1] = V_elmo;
 	}
 	m_Outputs.M_o_elmo = m_Inputs.M_D_ui;
 	m_Outputs.M_s_ui = m_Outputs.M_o_elmo;

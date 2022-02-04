@@ -271,7 +271,7 @@
   "color": "None"
 }
 </script>
-</div><div id="TcHmiNavBarMenu" data-tchmi-type="TcHmi.Controls.ResponsiveNavigation.TcHmiNavigationBar" data-tchmi-width="100" data-tchmi-height="100" data-tchmi-left="0" data-tchmi-top="0" data-tchmi-grid-column-index="0" data-tchmi-grid-row-index="1" data-tchmi-height-unit="%" data-tchmi-width-unit="%" data-tchmi-left-unit="px" data-tchmi-top-unit="px" data-tchmi-right-unit="px" data-tchmi-bottom="0" data-tchmi-bottom-unit="px" data-tchmi-alignment-top="False" data-tchmi-alignment-bottom="True" data-tchmi-nav-content-control-symbol="%ctrl%TcHmiNavContentMenu%/ctrl%" data-tchmi-nav-target-region-control-symbol="%ctrl%TcHmiTopLevelRegion%/ctrl%" data-tchmi-bread-crumb-control-symbol="%ctrl%TcHmiBreadCrumbControl%/ctrl%" data-tchmi-alignment="Top" data-tchmi-mobile-icon-width="40" data-tchmi-mobile-icon-height="40" data-tchmi-listen-window-resize="false" data-tchmi-mouse-over-show="false" data-tchmi-font-size="140" data-tchmi-padding-left-right="40" data-tchmi-switch-breakpoint="1020" data-tchmi-enable-mobile-switch="True" data-tchmi-is-enabled="true">
+</div><div id="TcHmiNavBarMenu" data-tchmi-type="TcHmi.Controls.ResponsiveNavigation.TcHmiNavigationBar" data-tchmi-width="100" data-tchmi-height="100" data-tchmi-left="0" data-tchmi-top="0" data-tchmi-grid-column-index="0" data-tchmi-grid-row-index="1" data-tchmi-height-unit="%" data-tchmi-width-unit="%" data-tchmi-left-unit="px" data-tchmi-top-unit="px" data-tchmi-right-unit="px" data-tchmi-bottom="0" data-tchmi-bottom-unit="px" data-tchmi-alignment-top="False" data-tchmi-alignment-bottom="True" data-tchmi-nav-content-control-symbol="%ctrl%TcHmiNavContentMenu%/ctrl%" data-tchmi-nav-target-region-control-symbol="%ctrl%TcHmiTopLevelRegion%/ctrl%" data-tchmi-bread-crumb-control-symbol="%ctrl%TcHmiBreadCrumbControl%/ctrl%" data-tchmi-alignment="Top" data-tchmi-mobile-icon-width="20" data-tchmi-mobile-icon-height="30" data-tchmi-listen-window-resize="false" data-tchmi-mouse-over-show="false" data-tchmi-font-size="140" data-tchmi-padding-left-right="40" data-tchmi-switch-breakpoint="1020" data-tchmi-enable-mobile-switch="True" data-tchmi-is-enabled="true">
 
 <script data-tchmi-target-attribute="data-tchmi-trigger" type="application/json">
 [
@@ -478,7 +478,7 @@
                 "value": {
                   "objectType": "StaticValue",
                   "valueType": "tchmi:framework#/definitions/MeasurementValue",
-                  "value": 75.0
+                  "value": 50.0
                 },
                 "asyncWait": true
               },
