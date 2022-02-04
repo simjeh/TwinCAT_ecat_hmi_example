@@ -361,3 +361,13 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+
+# unecessary
+MyTestSigningCert.cer
+sjhexample/_Boot/
+sjhexample/_Config/
+sjhexample/_Deployment/
+sjhexample/TrialLicense.tclrs
+sjhexample/S1m.sys
+sjhexample/sjhexample.tsproj
+sjhexample/sjhexample.tsproj.bak
