@@ -1,0 +1,13 @@
+﻿<div id="StartPage" data-tchmi-type="TcHmi.Controls.System.TcHmiContent" data-tchmi-top="0" data-tchmi-left="0" data-tchmi-width="100" data-tchmi-height="100" data-tchmi-width-unit="%" data-tchmi-height-unit="%">
+
+
+
+<div id="TcHmiTextblock_3" data-tchmi-type="TcHmi.Controls.Beckhoff.TcHmiTextblock" data-tchmi-height="106" data-tchmi-height-unit="px" data-tchmi-left="20" data-tchmi-left-unit="px" data-tchmi-text="Welcome to S1M GUI example.\nI am Jaehoon Sim and made this example project. \nsimjeh@naver.com" data-tchmi-top="113" data-tchmi-top-unit="px" data-tchmi-width="535" data-tchmi-width-unit="px" data-tchmi-word-wrap="true" data-tchmi-is-enabled="true" data-tchmi-text-font-size-unit="%" data-tchmi-text-font-size="200">
+
+<script data-tchmi-target-attribute="data-tchmi-text-color" type="application/json">
+{
+  "color": "rgba(0, 0, 0, 1)"
+}
+</script>
+</div>
+</div>
